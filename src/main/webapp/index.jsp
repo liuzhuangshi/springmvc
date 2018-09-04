@@ -5,5 +5,6 @@
 <a href="test2">2</a>
 <a href="test3">3</a>
 <a href="test4">4</a>
+<a href="sayHi">访问表单</a>
 </body>
 </html>
