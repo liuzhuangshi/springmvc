@@ -5,6 +5,7 @@
 <a href="test2">2</a>
 <a href="test3">3</a>
 <a href="test4">4</a>
-<a href="sayHi">访问表单</a>
+<a href="sayHi">访问表单1</a>
+<a href="hello">访问表单2</a>
 </body>
 </html>
