@@ -7,5 +7,6 @@
 <a href="test4">4</a>
 <a href="sayHi">访问表单1</a>
 <a href="hello">访问表单2</a>
+<a href="hi/liuzhuangshi">通过@PathVariable传递参数</a>
 </body>
 </html>
